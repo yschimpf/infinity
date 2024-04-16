@@ -1,7 +1,7 @@
 # Infinity - Digital Immortality
 
 <div style="text-align: center;">
-    <img src="infinity.jpeg" alt="Infinity Logo" width="300" />
+    <img src="infinity.jpeg" alt="Infinity Logo" width="75%" />
 </div>
 
 
