@@ -1,6 +1,9 @@
 # Infinity - Digital Immortality
 
-![Infinity Logo](infinity.jpeg)
+<div style="text-align: center;">
+    <img src="infinity.jpeg" alt="Infinity Logo" width="300" />
+</div>
+
 
 **Infinity - Digital Immortality** offers a transformative partnership for esteemed watchmakers, designed to disrupt the traditional watch market by merging the timeless symbol of a watch with the enduring concept of digital immortality. This luxury watch, enhanced with advanced AI technology, captures personal narratives and transforms them into sophisticated digital avatars, embodying the essence of the wearer and ensuring their legacy continues indefinitely.
 
